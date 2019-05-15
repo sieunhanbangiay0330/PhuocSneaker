@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630442362817",
+    "firebase_url": "https://phuocsneaker.firebaseio.com",
+    "project_id": "phuocsneaker",
+    "storage_bucket": "phuocsneaker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630442362817:android:154046a1b42a2f42",
+        "android_client_info": {
+          "package_name": "com.example.phuocsneaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630442362817-fkivqqak4ogl0iob2j77i16npoibrc8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv4D2zTP-a99_y4OYCErC_94dS_tivXf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630442362817-fkivqqak4ogl0iob2j77i16npoibrc8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

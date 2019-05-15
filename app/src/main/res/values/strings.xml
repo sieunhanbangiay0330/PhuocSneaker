@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phuoc Sneaker</string>
+    <string name="title_activity_thong_tin">Map</string>
+    <string name="google_maps_key">AIzaSyCvuhZR23UmDZgIER37u3HqNK8_ExCtcEY</string>
+</resources>
